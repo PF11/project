@@ -1,0 +1,19 @@
+.left-part {
+  height: auto;
+  margin-top: 30px;
+}
+.col2 {
+  height: 20%;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 1%;
+  padding: 1%;
+}
+.col-3 {
+  background-color: white;
+}
+.col-6 {
+  margin-top: 1%;
+  background-color: white;
+  height: 350px;
+}

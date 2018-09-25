@@ -1,0 +1,41 @@
+.container-gray {
+  background-color: whitesmoke;
+  width: 100%;
+  height: auto;
+}
+.container-blue {
+  background-color: rgb(41, 75, 175);
+  width: 100%;
+  height: 70px;
+  display: row;
+}
+.container-white {
+  background-color: white;
+  width: 100%;
+  height: 110px;
+  margin-top: 2%;
+  display: flex;
+  flex-direction: row;
+}
+.hdfclogo {
+  width: 10%;
+  height: 70%;
+  margin: 1%;
+}
+.heading {
+  color: rgb(41, 75, 175);
+  margin-left: 18%;
+  margin-top: 3%;
+}
+.container-b {
+  background-color: rgb(41, 75, 175);
+  width: 100%;
+  height: 202px;
+  margin-top: 5%;
+}
+.container-red {
+  background-color: red;
+  width: 100%;
+  height: 80px;
+  margin-top: 5%;
+}

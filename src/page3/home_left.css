@@ -1,0 +1,25 @@
+.container1 {
+  width: 250px;
+  height: 90%;
+  background-color: whitesmoke;
+  margin-left: 1%;
+  margin-top: 5%;
+}
+.sidenav,
+.sidenav1 {
+  width: 250px;
+  z-index: 1;
+  top: 20px;
+  margin-top: 3%;
+  overflow-x: hidden;
+  padding: 2%;
+  border: 3px solid lightgray;
+  border-radius: 5%;
+}
+
+.side-nav-menu {
+  padding: 2px;
+  font-size: 15px;
+  color: #4a98f3;
+  cursor: pointer;
+}

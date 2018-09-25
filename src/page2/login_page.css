@@ -1,0 +1,19 @@
+.container-big {
+background-color: whitesmoke;
+  width:100%;
+  height: auto;
+  position: fixed;
+ 
+ 
+}
+.left-side {
+  background-color:whitesmoke;
+  height: auto;
+  margin-bottom: 0;
+}
+.right-side {
+  background-color: whitesmoke;
+  width: 330px;
+  margin-bottom: 0;
+  height: auto;
+}
